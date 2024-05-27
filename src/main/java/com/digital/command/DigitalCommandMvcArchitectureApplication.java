@@ -8,6 +8,7 @@ public class DigitalCommandMvcArchitectureApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DigitalCommandMvcArchitectureApplication.class, args);
+		
 	}
 
 }

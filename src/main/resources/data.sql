@@ -1,0 +1,1 @@
+INSERT INTO "user" VALUES (1, '03916520105'); 
